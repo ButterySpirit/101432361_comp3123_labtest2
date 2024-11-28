@@ -10,13 +10,13 @@ A ReactJS weather application that provides current weather and a 5-day forecast
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](./screenshots/screenshot1.png)
+![Home Page](./src/screenshots/screenshot1.png)
 
 ### 2. Search Results
-![Search Results](./screenshots/screenshot2.png)
+![Search Results](./src/screenshots/screenshot2.png)
 
 ### 3. Forecast Cards
-![Forecast Cards](./screenshots/screenshot3.png)
+![Forecast Cards](./src/screenshots/screenshot3.png)
 
 ## How to Run
 1. Clone the repository:
